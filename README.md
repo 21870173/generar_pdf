@@ -5,7 +5,7 @@ En este caso sólo lo estamos generando, entonces no usamos jQuery -como ven el 
 Igual se los dejo ya que es un solo archivo, y tiene funcionalidades muy usadas, como por ej. convertir de HTML a PDF (yo intenté pero no me sale jajja)
 Si alguien logra hacerlo, porfa compartan! :)
 
-Y otras cosas como manejo de eventos, validaciones, etc. que nos van a servir para más adelante
+Y otras cosas como manejo de eventos, validaciones, etc. que nos van a servir más adelante
 Para más info o download en http://jquery.com/
 
 
