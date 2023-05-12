@@ -2,7 +2,7 @@ Hola Chicos,
 Encontré una manera sencilla de generar documento PDF
 
 En este caso sólo lo estamos generando, entonces no usamos jQuery -como ven el script src está comentado-;
-Igual se los dejo ya que es un solo archivo, y tiene funcionalidades muy usadas, como por ej. convertir de HTML a PDF (yo intenté pero no me sale jajja)
+Igual se los dejo ya que es un solo archivo, y tiene funcionalidades muy usadas, como por ej. convertir contenido HTML a PDF (yo intenté pero no me sale jajja)
 Si alguien logra hacerlo, porfa compartan! :)
 
 Y otras cosas como manejo de eventos, validaciones, etc. que nos van a servir más adelante
